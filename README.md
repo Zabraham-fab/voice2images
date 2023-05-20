@@ -18,7 +18,10 @@ This app can be helpful in various scenarios. For example:
 👨🔬 Researchers who need to transform verbal instructions into visual data.
 
 Here's a screenshot of the app in action:
+
+
 <img src=234235.png>
+
 
 You can try out the app and learn more by exploring it.
 
